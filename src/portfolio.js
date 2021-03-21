@@ -91,7 +91,11 @@ const educationInfo = {
       subHeader: "Baachelor of Computer Science and Commerce",
       desc: "Took courses about Software Engineering, Web Security, Operating Systems, Data Structures, and Algorithms",
       descBullets: [
+<<<<<<< HEAD
         "UNSW Golf Society President: Building an inclusive Golfing Community of over 100 Students",
+=======
+        "UNSW Golf Society President",
+>>>>>>> 622c2a72c9832a5af841a35ad457ac595608063e
       ]
     }
   ]
@@ -179,9 +183,15 @@ const bigProjects = {
       ]
     },
     {
+<<<<<<< HEAD
       image: require("./assets/images/mongodb-logo.jpeg"),
       projectName: "Login Authentication using Node.js",
       projectDesc: "Developed a simple login authentication page using Node.js frameworks and Mongo.DB",
+=======
+      image: require("./assets/images/login.png"),
+      projectName: "Login Authentication using Node.js",
+      projectDesc: "Developed a simple login authentication page using Node.js and Express",
+>>>>>>> 622c2a72c9832a5af841a35ad457ac595608063e
       footerLink: [
         {
           name: "Visit Repo",

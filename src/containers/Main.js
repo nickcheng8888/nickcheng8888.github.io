@@ -22,7 +22,11 @@ export default class Main extends Component {
   constructor(props) {
     super(props);
     this.state = {
+<<<<<<< HEAD
       isDark: true
+=======
+      isDark: false
+>>>>>>> 622c2a72c9832a5af841a35ad457ac595608063e
     };
   }
 
